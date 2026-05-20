@@ -36660,8 +36660,8 @@
                 "species": "SPECIES_NONE"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 80,
+                "max_level": 95,
                 "species": "SPECIES_LUGIA"
               },
               {
